@@ -1,2 +1,2 @@
 # mcp-weather
-Play around with Model Context Protocol (MCP)
+play around with model context protocol
