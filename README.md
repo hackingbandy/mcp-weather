@@ -1,5 +1,6 @@
 # mcp-weather
 play around with model context protocol
+docu: https://modelcontextprotocol.io/quickstart/server
 
 ## set up env
 curl -LsSf https://astral.sh/uv/install.sh | sh
